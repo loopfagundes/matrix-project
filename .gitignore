@@ -1,0 +1,10 @@
+/shelf/
+/.idea/workspace.xml
+.idea/
+.idea
+target/
+*.iml
+.settings/
+.project
+.classpath
+.vscode/
