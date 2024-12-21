@@ -1,4 +1,4 @@
-Matrix Byte 2D - byLuk
+Matrix Byte - byLuk
 ---
 
 Estrutura do projeto
