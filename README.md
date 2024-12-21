@@ -16,7 +16,7 @@ Este é um projeto pessoal de estudo desenvolvido com o objetivo de aprofundar m
 **Animações em Matrix:** Criação de animações dinâmicas baseadas no conceito de uma matriz 2D.
 
 ---
-### Prévia
+### 🎥 Prévia
 
 ![](img/matrix2d.gif)
 
