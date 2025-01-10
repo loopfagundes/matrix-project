@@ -8,14 +8,6 @@ const tamanhoFonte = 16;
 const colunas = Math.floor(canvas.width / tamanhoFonte);
 const efeitosChuva = Array(colunas).fill(0);
 
-// ctx.fillRect(0, 0, 100, 100)
-// ctx.fillRect(0, 0, c.width, c.height);
-// ctx.fillStyle = "#0F0";
-// ctx.font = `60px arial`;
-// ctx.fillText("Test", 0, 60);
-// const numeroByte = ["0", "1"];
-// const caracteresJapones = "アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヰヱヲン0123456789";
-
 const caracteres = "01"
 const arrayDeCaracteres = caracteres.split("");
 
