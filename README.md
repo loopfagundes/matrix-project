@@ -1,4 +1,4 @@
-# ![](img/logo.png)
+# ![](assets/img/logo.png)
 
 Este é um projeto pessoal de estudo desenvolvido com o objetivo de aprofundar meus conhecimentos no mundo do desenvolvimento Front-End. O foco principal é trabalhar com o conceito de Matrix 2D utilizando tecnologias como Canvas, JavaScript, HTML5 e CSS3.
 
@@ -27,8 +27,9 @@ O projeto está hospedado no Netlify, uma plataforma de hospedagem para sites es
 ---
 ### 🎥 Prévia
 
-![](img/matrix2d.gif)
+### Matrix 2D
 
+![](assets/img/matrix2d.gif)
 ---
 ### 📚 Links:
 
