@@ -1,4 +1,4 @@
-# ![](assets/img/logo.png)
+
 
 Este é um projeto pessoal de estudo desenvolvido com o objetivo de aprofundar meus conhecimentos no mundo do desenvolvimento Front-End e 3D. Inicialmente, o projeto focava na Matrix 2D utilizando tecnologias como Canvas, JavaScript, HTML5 e CSS3. Agora, evoluí para criar um conceito de Matrix 3D, explorando animações e renderizações utilizando a biblioteca Three.js.
 
