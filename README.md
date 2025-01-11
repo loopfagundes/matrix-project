@@ -1,4 +1,8 @@
-# ![](assets/img/logo.png)
+# ![](assets/img/logofx.png)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77b7b329-7f6c-4471-ab98-8a9740ab4ca9/deploy-status)](https://app.netlify.com/sites/matrixfxproject/deploys)
+
+---
 
 Este é um projeto pessoal de estudo desenvolvido com o objetivo de aprofundar meus conhecimentos no mundo do desenvolvimento Front-End e 3D. Inicialmente, o projeto focava na Matrix 2D utilizando tecnologias como Canvas, JavaScript, HTML5 e CSS3. Agora, evoluí para criar um conceito de Matrix 3D, explorando animações e renderizações utilizando a biblioteca Three.js.
 
@@ -88,6 +92,3 @@ Matrix 3D está em desenvolvimento.
 
 - [Criando o efeito da chuva do Matrix com JavaScript puro](https://willianjusten.com.br/criando-o-efeito-da-chuva-do-matrix-com-javascript-puro)
 - [Three.js Journey - Guia completo sobre Three.js](https://threejs-journey.com/#)
-
----
-[![Netlify Status](https://api.netlify.com/api/v1/badges/77b7b329-7f6c-4471-ab98-8a9740ab4ca9/deploy-status)](https://app.netlify.com/sites/matrixfxproject/deploys)
