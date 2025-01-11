@@ -90,4 +90,4 @@ Matrix 3D está em desenvolvimento.
 - [Three.js Journey - Guia completo sobre Three.js](https://threejs-journey.com/#)
 
 ---
-[![Netlify Status](https://api.netlify.com/api/v1/badges/77b7b329-7f6c-4471-ab98-8a9740ab4ca9/deploy-status)](https://app.netlify.com/sites/matrix2dproject/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77b7b329-7f6c-4471-ab98-8a9740ab4ca9/deploy-status)](https://app.netlify.com/sites/matrixfxproject/deploys)
