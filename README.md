@@ -3,6 +3,13 @@
 Este é um projeto pessoal de estudo desenvolvido com o objetivo de aprofundar meus conhecimentos no mundo do desenvolvimento Front-End e 3D. Inicialmente, o projeto focava na Matrix 2D utilizando tecnologias como Canvas, JavaScript, HTML5 e CSS3. Agora, evoluí para criar um conceito de Matrix 3D, explorando animações e renderizações utilizando a biblioteca Three.js.
 
 ---
+### O que é o Matrix FX Project?
+
+O Matrix FX Project é uma iniciativa de desenvolvimento focada na criação de efeitos visuais dinâmicos, tanto em 2D quanto em 3D, inspirados no universo da Matrix. O objetivo principal do projeto é explorar a renderização gráfica e animações imersivas, criando experiências interativas com o uso de tecnologias web modernas, como JavaScript, Canvas, e Three.js.
+
+A versão atual seja básica, o projeto está em constante evolução, com planos de adicionar recursos mais avançados e efeitos visuais mais complexos, ampliando as possibilidades de interações e animações.
+
+---
 ### :earth_americas: Site
 
 - [Matrix FX Project](https://matrixfxproject.netlify.app/)
